@@ -28,7 +28,7 @@ calculator/
 
 ## Installation
 ## 1. Clone the repository:
-git clone https://github.com/yourusername/calculator.git](https://github.com/Allanotieno254Backup/calculator-using-php)](https://github.com/Allanotieno254Backup/calculator-using-php/tree/main
+git clone https://github.com/Allanotieno254Backup/calculator-using-php
  
 ## 2. Navigate to the project directory:
 cd calculator
