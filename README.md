@@ -3,13 +3,13 @@
 ## Scientific Calculator
 This project is a web-based scientific calculator built using PHP, JavaScript, HTML, and CSS. The calculator supports basic arithmetic operations (addition, subtraction, multiplication, division), as well as advanced mathematical functions like exponentiation, square roots, logarithms, and percentages.
 
-Features
+## Features
 Basic Arithmetic Operations: Addition, Subtraction, Multiplication, Division
 Advanced Functions: Exponentiation, Square Root, Logarithm, Percentage
 User-friendly Interface
 Responsive Design
 
-Directory Structure
+## Directory Structure
 calculator/
 │
 ├── index.php
@@ -28,7 +28,7 @@ calculator/
 
 ## Installation
 ## 1. Clone the repository:
-git clone [https://github.com/yourusername/calculator.git](https://github.com/Allanotieno254Backup/calculator-using-php)
+git clone https://github.com/yourusername/calculator.git](https://github.com/Allanotieno254Backup/calculator-using-php)](https://github.com/Allanotieno254Backup/calculator-using-php/tree/main
  
 ## 2. Navigate to the project directory:
 cd calculator
